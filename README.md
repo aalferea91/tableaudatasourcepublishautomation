@@ -1,3 +1,11 @@
+---
+title: "tableaudatasourcepublishautomation"
+type: "project"
+tags: python, Tableau, Goodyear
+
+---
+
+
 # tableaudatasourcepublishautomation
 
 
